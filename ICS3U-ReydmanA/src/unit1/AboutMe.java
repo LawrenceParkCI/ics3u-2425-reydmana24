@@ -23,18 +23,38 @@ public class AboutMe {
 		System.out.println ("\n");
 		System.out.println ("\n");
 		System.out.format("	Monday:");
+		System.out.format("         |    Computer Science   |");
+		System.out.format("   Physical Education  |");
+		System.out.format("         Spare         |");
+		System.out.format("       Functions       |");
 		System.out.println ("\n");
 		System.out.println ("\n");
 		System.out.format("	Tuesday:");
+		System.out.format("        |   Physical Education  |");
+		System.out.format("    Computer Science   |");
+		System.out.format("        Functions      |");
+		System.out.format("         Spare         |");
 		System.out.println ("\n");
 		System.out.println ("\n");
 		System.out.format("	Wedensday:");
+		System.out.format("      |    Computer Science   |");
+		System.out.format("   Physical Education  |");
+		System.out.format("         Spare         |");
+		System.out.format("       Functions       |");
 		System.out.println ("\n");
 		System.out.println ("\n");
 		System.out.format("	Thursday:");
+		System.out.format("        |   Physical Education  |");
+		System.out.format("    Computer Science   |");
+		System.out.format("        Functions      |");
+		System.out.format("         Spare         |");
 		System.out.println ("\n");
 		System.out.println ("\n");
 		System.out.format("	Friday:");
+		System.out.format("         |    Computer Science   |");
+		System.out.format("   Physical Education  |");
+		System.out.format("         Spare         |");
+		System.out.format("       Functions       |");
 
 	}
 
