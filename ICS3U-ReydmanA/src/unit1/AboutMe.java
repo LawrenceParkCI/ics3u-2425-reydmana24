@@ -19,7 +19,7 @@ public class AboutMe {
 		System.out.format("	Date:");
 		System.out.format(" 		|\tPeriod 1 \t| \t Period 2 \t| \t Period 3 \t| \t Period 4 \t|");
 		System.out.println ("\n");
-		System.out.format(" 			|     9:00am-10:15am \t|    10:20am - 11:40am  |    12:40pm - 1:55pm   |    2:00pm - 3:15pm    |");
+		System.out.format(" 			|     9:00am-10:15am \t|    10:15am - 11:40am  |    12:40pm - 1:55pm   |    1:55pm - 3:15pm    |");
 		System.out.println ("\n");
 		System.out.println ("\n");
 		System.out.format("	Monday:");
@@ -42,9 +42,15 @@ public class AboutMe {
 		System.out.format("         Spare         |");
 		System.out.format("       Functions       |");
 		System.out.println ("\n");
+		System.out.format("	Late Start: ");
+		System.out.format("         9:55am - 11:00am");
+		System.out.format("       11:00am - 12:05am");
+		System.out.format("        1:05pm - 2:10pm");
+		System.out.format("          2:10pm - 3:15pm");
+		System.out.println ("\n");
 		System.out.println ("\n");
 		System.out.format("	Thursday:");
-		System.out.format("        |   Physical Education  |");
+		System.out.format("       |   Physical Education  |");
 		System.out.format("    Computer Science   |");
 		System.out.format("        Functions      |");
 		System.out.format("         Spare         |");
