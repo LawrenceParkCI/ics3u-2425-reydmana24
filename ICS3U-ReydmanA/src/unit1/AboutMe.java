@@ -7,7 +7,7 @@ package unit1;
 public class AboutMe {
 
 	public static void main(String[] args) {
-		// This prints to the system console
+		// This prints my timetable for school.
 		System.out.println("About Me ");
 		System.out.println("________________________");
 		System.out.println("My name is AlexReydman ");
@@ -15,6 +15,8 @@ public class AboutMe {
 		System.out.println("My teacher is Ms. Kemp ");
 		System.out.println("I go to Lawrence Park Collegiate Institute ");
 		System.out.println("\"Go Panthers!\"");
+		
+		
 		System.out.println("-------------------------------------------------------------------------------------------------------------------------------------");
 		System.out.format("	Date:");
 		System.out.format(" 		|\tPeriod 1 \t| \t Period 2 \t| \t Period 3 \t| \t Period 4 \t|");
