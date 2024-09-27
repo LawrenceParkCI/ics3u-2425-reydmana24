@@ -1,5 +1,9 @@
 package unit1;
-
+/**
+ * Description This program prints a bingo card with the rules. <br>
+ * Date: Sept. 27, 2024
+ * @author Alex Reydman
+ */
 
 import java.util.ArrayList;
 import java.util.Collections;

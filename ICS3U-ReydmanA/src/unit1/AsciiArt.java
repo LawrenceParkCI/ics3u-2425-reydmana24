@@ -1,5 +1,9 @@
 package unit1;
-
+/**
+ * Description This program prints my name in AsciiArt, as well as a photo of tiger woods in AsciiArt. <br>
+ * Date: Sept. 27, 2024
+ * @author Alex Reydman
+ */
 public class AsciiArt {
 
 	public static void main(String[] args) {
