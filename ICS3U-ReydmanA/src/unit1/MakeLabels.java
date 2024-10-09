@@ -19,7 +19,6 @@ public class MakeLabels {
 		System.out.println("********************************");
 		sc.close();
 	}
-
 }
 
 
