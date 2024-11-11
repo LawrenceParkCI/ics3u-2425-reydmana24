@@ -13,7 +13,7 @@ public class IfStatements2 {
     Scanner in = new Scanner(System.in);
 
     System.out.println("What is your age?");
-    int userAge = in.nextInt();
+    int userAge1 = in.nextInt();
     /*
     if (userAge > 18) { //If they're over 18, they are titled an adult
       String title = "Adult";
