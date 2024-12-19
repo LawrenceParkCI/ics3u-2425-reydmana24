@@ -8,7 +8,7 @@ import java.util.Scanner;
  * @author Alex Reydman
  */
 
-class StringComparison {
+public class StringComparison {
 	public static void main(String[] args) {
 
 		Scanner in = new Scanner(System.in);
@@ -23,13 +23,16 @@ class StringComparison {
 		} else {
 			System.out.println("Sorry, that's incorrect.");
 		}
+	
 	}
-		//Run the code. What happens when you type the correct answer? The incorrect answer?
-		//Prints the opposite, if its correct, it prints the incorrect 
 
-		/*
+}
+	//Run the code. What happens when you type the correct answer? The incorrect answer?
+	//Prints the opposite, if its correct, it prints the incorrect 
+
+	/*
       Strings are objects not primitives and as such are a 
-		 *reference* data type. These variables hold an address 
+	 *reference* data type. These variables hold an address 
       to the value. (Scanner is also a reference data type)
 
       int, double, char, etc. are all *primitive* data types. 
@@ -45,12 +48,12 @@ class StringComparison {
         import java.util.Scanner;
 
 /**
-		 * Description: StringComparison work sheet
-		 * Date: Nov. 10, 2024
-		 * @author Alex Reydman
-		 */
+	 * Description: StringComparison work sheet
+	 * Date: Nov. 10, 2024
+	 * @author Alex Reydman
+	 */
 
-		/*class StringComparison {
+	/*class StringComparison {
     public static void main(String[] args) {
 
         Scanner in = new Scanner(System.in);
@@ -89,11 +92,11 @@ class StringComparison {
 
         // Closing the scanner
         in.close();
-		 */
+	 */
+
+
 
 	
-
-	*/
 
 
 	//What values does compareTo() return?  added a demonstration of the compareTo() method to show how string comparison works lexicographically. This will allow you to compare strings in terms of alphabetical order.
@@ -101,5 +104,4 @@ class StringComparison {
 
 	//what value does equals() and equalsIgnoreCase() return? The comparison between strings now uses equals() instead of == to properly check if the contents of the strings are equal.
 	//What is the difference between these two functions?
-}
-}
+
